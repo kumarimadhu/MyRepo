@@ -1,3 +1,3 @@
-f = open("c:\temp123\output.csv",'w') 
-print ("\n\nWell done!!\n\n") 
-f.write("Welcome this is output of jenkins Job !!!!!!!!!!\n") 
+f = open("c:/temp/output.csv",'w') 
+print ("\n\ntest with git successfull\n\n") 
+f.write("Welcome gud job!!!!\n")
